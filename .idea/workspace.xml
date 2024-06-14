@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6951e4f2-8fc3-46cd-b73c-03956012fdaf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mx/edu/utez/prueba_git/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/edu/utez/prueba_git/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mx/edu/utez/prueba_git/model/user.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/edu/utez/prueba_git/model/user.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="6951e4f2-8fc3-46cd-b73c-03956012fdaf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1718132925057</updated>
       <workItem from="1718132926139" duration="3000" />
-      <workItem from="1718388883229" duration="4680000" />
+      <workItem from="1718388883229" duration="5831000" />
     </task>
     <servers />
   </component>
